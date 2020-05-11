@@ -13,7 +13,7 @@
   	
   	
   	dependencies {
-    	        implementation 'com.github.vtechsevi:SetAtCursorLocation:Tag'
+    	        implementation 'com.github.vtechsevi:SetAtCursorLocation:latest_version'
     	}
     	
    #Example
