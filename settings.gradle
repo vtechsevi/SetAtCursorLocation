@@ -1,0 +1,3 @@
+rootProject.name='SetAtCursorLocation'
+include ':app'
+include ':setatcursorlocation'
